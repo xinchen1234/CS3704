@@ -1,1 +1,2 @@
-# CS3704
+# CS3704 SE Basics Workshop
+Hello!
