@@ -1,0 +1,5 @@
+1. What is your favorite programming language? Why?
+My favorite language is java, it got high readability and writeability such that it is really user-friendly language.
+
+2. Is your favorite language the one you are also most experienced with? If not, which language are you most experienced with?
+Yes, java is my most experienced language.
